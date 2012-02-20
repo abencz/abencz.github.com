@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: A blog for all things embedded
 ---
 {% include JB/setup %}
 
