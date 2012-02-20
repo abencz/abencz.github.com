@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Deeply Embedded
+tagline: Embedded (and Other) Software Blog
 author :
   name : Alex Bencz
   email : blah@email.test
